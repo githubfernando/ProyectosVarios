@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T8vPrAzVbzuohv/3itW6iudFFs9QLGJ4NblMpdPFCwt2OOh5BttquS73gyv3LpKAOYeF3uf+gxof5MBbM+mjdw==",
+  "success": true,
+  "projectFilePath": "D:\\IT_Local\\ZProyect\\TestServidorCorreo\\TestServidorCorreo\\TestServidorCorreo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fernandoRP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

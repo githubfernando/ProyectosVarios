@@ -1,0 +1,39 @@
+Consulta de productos de Api Mercado Libre.
+
+
+A continuación se relacionan las tecnologías usadas para el escenario planteado:
+
+- Python 3.10
+- SQL
+
+
+* Paquetes python usados (revisar requirements.txt)
+- pyodbc==4.0.32
+- requests==2.27.1
+
+
+* La siguiente Url es usada para el consumo de los datos para el proceso.
+
+url = "https://api.mercadolibre.com/"
+
+    uriProducts = 'products/search'
+    uriProductsItem = 'products/{0}/items'
+    uriItem = 'items/'
+    uriUsers = 'users/'
+    uriItemUsers = 'users/{0}/items/search' #Catalogo del vendedor
+
+
+
+Se genera una BD en SQL  (SouthCoreData) :
+
+
+
+
+Se debe configurar la conexión a la BD en el siguiente archivo :
+
+Producto.py en la linea 13
+
+connstr = "Driver={ODBC Driver 17 for SQL server}; Server=localhost;DATABASE=SouthCoreData;UID=user;PWD=user"
+
+
+
