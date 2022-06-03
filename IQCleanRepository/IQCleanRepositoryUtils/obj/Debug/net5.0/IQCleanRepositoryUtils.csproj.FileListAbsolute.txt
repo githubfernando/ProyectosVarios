@@ -1,0 +1,15 @@
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\bin\Debug\net5.0\IQCleanRepositoryUtils.deps.json
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\bin\Debug\net5.0\IQCleanRepositoryUtils.dll
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\bin\Debug\net5.0\ref\IQCleanRepositoryUtils.dll
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\bin\Debug\net5.0\IQCleanRepositoryUtils.pdb
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\bin\Debug\net5.0\IQCleanRepositoryDAO.dll
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\bin\Debug\net5.0\IQCleanRepositoryDAO.pdb
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\obj\Debug\net5.0\IQCleanRepositoryUtils.csprojAssemblyReference.cache
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\obj\Debug\net5.0\IQCleanRepositoryUtils.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\obj\Debug\net5.0\IQCleanRepositoryUtils.AssemblyInfoInputs.cache
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\obj\Debug\net5.0\IQCleanRepositoryUtils.AssemblyInfo.cs
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\obj\Debug\net5.0\IQCleanRepositoryUtils.csproj.CoreCompileInputs.cache
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\obj\Debug\net5.0\IQCleanRepositoryUtils.csproj.CopyComplete
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\obj\Debug\net5.0\IQCleanRepositoryUtils.dll
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\obj\Debug\net5.0\ref\IQCleanRepositoryUtils.dll
+D:\IT_Local\CleanRepo\IQCleanRepository\IQCleanRepositoryUtils\obj\Debug\net5.0\IQCleanRepositoryUtils.pdb

@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryBLL\\IQCleanRepositoryBLL.csproj": {}
+  },
+  "projects": {
+    "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryBLL\\IQCleanRepositoryBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryBLL\\IQCleanRepositoryBLL.csproj",
+        "projectName": "IQCleanRepositoryBLL",
+        "projectPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryBLL\\IQCleanRepositoryBLL.csproj",
+        "packagesPath": "C:\\Users\\fernandoRP\\.nuget\\packages\\",
+        "outputPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fernandoRP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://iq-outsourcing.pkgs.visualstudio.com/_packaging/TeamIQ/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAL\\IQCleanRepositoryDAL.csproj": {
+                "projectPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAL\\IQCleanRepositoryDAL.csproj"
+              },
+              "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAO\\IQCleanRepositoryDAO.csproj": {
+                "projectPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAO\\IQCleanRepositoryDAO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.8.4, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAL\\IQCleanRepositoryDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAL\\IQCleanRepositoryDAL.csproj",
+        "projectName": "IQCleanRepositoryDAL",
+        "projectPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAL\\IQCleanRepositoryDAL.csproj",
+        "packagesPath": "C:\\Users\\fernandoRP\\.nuget\\packages\\",
+        "outputPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fernandoRP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://iq-outsourcing.pkgs.visualstudio.com/_packaging/TeamIQ/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAO\\IQCleanRepositoryDAO.csproj": {
+                "projectPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAO\\IQCleanRepositoryDAO.csproj"
+              },
+              "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryUtils\\IQCleanRepositoryUtils.csproj": {
+                "projectPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryUtils\\IQCleanRepositoryUtils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAO\\IQCleanRepositoryDAO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAO\\IQCleanRepositoryDAO.csproj",
+        "projectName": "IQCleanRepositoryDAO",
+        "projectPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAO\\IQCleanRepositoryDAO.csproj",
+        "packagesPath": "C:\\Users\\fernandoRP\\.nuget\\packages\\",
+        "outputPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fernandoRP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://iq-outsourcing.pkgs.visualstudio.com/_packaging/TeamIQ/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryUtils\\IQCleanRepositoryUtils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryUtils\\IQCleanRepositoryUtils.csproj",
+        "projectName": "IQCleanRepositoryUtils",
+        "projectPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryUtils\\IQCleanRepositoryUtils.csproj",
+        "packagesPath": "C:\\Users\\fernandoRP\\.nuget\\packages\\",
+        "outputPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryUtils\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fernandoRP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://iq-outsourcing.pkgs.visualstudio.com/_packaging/TeamIQ/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAO\\IQCleanRepositoryDAO.csproj": {
+                "projectPath": "D:\\IT_Local\\CleanRepo\\IQCleanRepository\\IQCleanRepositoryDAO\\IQCleanRepositoryDAO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.1.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

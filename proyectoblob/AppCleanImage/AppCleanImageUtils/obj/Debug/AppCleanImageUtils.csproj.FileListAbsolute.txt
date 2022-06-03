@@ -1,0 +1,6 @@
+C:\Users\OmarCC\source\repos\AppCleanImage\AppCleanImageUtils\bin\Debug\AppCleanImageUtils.dll
+C:\Users\OmarCC\source\repos\AppCleanImage\AppCleanImageUtils\bin\Debug\AppCleanImageUtils.pdb
+C:\Users\OmarCC\source\repos\AppCleanImage\AppCleanImageUtils\obj\Debug\AppCleanImageUtils.csprojAssemblyReference.cache
+C:\Users\OmarCC\source\repos\AppCleanImage\AppCleanImageUtils\obj\Debug\AppCleanImageUtils.csproj.CoreCompileInputs.cache
+C:\Users\OmarCC\source\repos\AppCleanImage\AppCleanImageUtils\obj\Debug\AppCleanImageUtils.dll
+C:\Users\OmarCC\source\repos\AppCleanImage\AppCleanImageUtils\obj\Debug\AppCleanImageUtils.pdb

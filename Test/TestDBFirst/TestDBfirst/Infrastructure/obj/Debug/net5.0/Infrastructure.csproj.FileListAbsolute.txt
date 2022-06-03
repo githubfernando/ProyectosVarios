@@ -1,0 +1,15 @@
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+D:\IT_Local\Test\TestDBFirst\TestDBfirst\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
